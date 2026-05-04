@@ -65,3 +65,7 @@ data # Dataset
 2. Install dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+jupyter notebook
+
+Untitled7 (2).ipynb
